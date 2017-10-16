@@ -1,4 +1,4 @@
-package gestionEcoleFinalVersion;
+package SchoolAppFinalVersion;
 
 import java.util.Scanner;
 
